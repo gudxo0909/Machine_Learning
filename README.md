@@ -1,2 +1,1 @@
-# Machine_Learning
--머신 러닝의 이론 설명과 실습
+# Machine Learning의 용어와 개념에 대한 설명 및 실습
